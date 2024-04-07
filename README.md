@@ -1,4 +1,4 @@
-# LSTM for Portfolio Optimization
+# Machine Learning for Portfolio Optimization
 
 This repository contains code and datasets used for predicting stock prices using Long Short-Term Memory (LSTM) neural networks, and optimizing stock portfolios using various algorithmic strategies. The project is structured to facilitate both machine learning predictions and algorithmic portfolio management.
 
